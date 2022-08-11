@@ -2,6 +2,14 @@
 title: "🌸 Bloom House"
 ---
 
+1. Finding a group of people interested in taking deliberate steps to be happier and more productive [[bloom-house]]
+
+2. All moving in together (or at least close by) and make an earnest iterative attempt to flourish harder together 
+   - [[flow happy eudaimonia]]
+   - (meet every sunday, review how personal and collective goals are going)
+
+3. Over time go deeper and deeper with one another, increasing in mutual understanding, acceptance, and secure attachment [[rocks in the stream]] [[thinking on cults]] 
+
 ## 💈
    "a protocol for promoting profound flourishing within a household of peers"
 
